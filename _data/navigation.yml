@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Student Access"
+    url: /student-access/
+  - title: "Useful Links"
+    url: /links/
+  - title: "Videos"
+    url: /videos/
+  - title: "About"
+    url: /about/

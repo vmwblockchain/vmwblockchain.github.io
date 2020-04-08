@@ -1,0 +1,1 @@
+[VMware Horizon 7](https://vmc-field-team.github.io/labs/horizon-lab/){:target="_blank"} | In this lab you will learn how to configure and utilise Horizon 7 desktop environments hosted in your VMware Cloud on AWS deployment
