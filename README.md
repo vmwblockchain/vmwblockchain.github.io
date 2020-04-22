@@ -1,4 +1,4 @@
-![readme banner](https://vmc-field-team.github.io/assets/images/VMware_Concord.jpg)
+![readme banner](https://vmwblockchain.github.io/assets/images/VMware_Concord.jpg)
 
 # VMware Blockchain Technical Field Team Site
 Welcome to the Repository for the VMware Blockchain Hackathon site. This site is used as a location for Hackathon content to guide customers and partners thorugh the VMware Blockchain solution. The site is priamrily maintained by the VMware Blockchain  Technical field team at VMware.
